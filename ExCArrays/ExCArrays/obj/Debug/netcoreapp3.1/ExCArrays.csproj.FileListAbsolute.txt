@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\bin\Debug\netcoreapp3.1\ExCArrays.exe
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\bin\Debug\netcoreapp3.1\ExCArrays.deps.json
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\bin\Debug\netcoreapp3.1\ExCArrays.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\bin\Debug\netcoreapp3.1\ExCArrays.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\bin\Debug\netcoreapp3.1\ExCArrays.dll
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\bin\Debug\netcoreapp3.1\ExCArrays.pdb
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\obj\Debug\netcoreapp3.1\ExCArrays.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\obj\Debug\netcoreapp3.1\ExCArrays.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\obj\Debug\netcoreapp3.1\ExCArrays.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\obj\Debug\netcoreapp3.1\ExCArrays.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\obj\Debug\netcoreapp3.1\ExCArrays.dll
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\obj\Debug\netcoreapp3.1\ExCArrays.pdb
+C:\Users\prune\VisualStudioMSSA\ExCArrays\ExCArrays\obj\Debug\netcoreapp3.1\ExCArrays.genruntimeconfig.cache

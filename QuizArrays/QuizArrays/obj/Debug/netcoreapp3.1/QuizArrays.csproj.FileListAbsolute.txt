@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\bin\Debug\netcoreapp3.1\QuizArrays.exe
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\bin\Debug\netcoreapp3.1\QuizArrays.deps.json
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\bin\Debug\netcoreapp3.1\QuizArrays.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\bin\Debug\netcoreapp3.1\QuizArrays.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\bin\Debug\netcoreapp3.1\QuizArrays.dll
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\bin\Debug\netcoreapp3.1\QuizArrays.pdb
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\obj\Debug\netcoreapp3.1\QuizArrays.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\obj\Debug\netcoreapp3.1\QuizArrays.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\obj\Debug\netcoreapp3.1\QuizArrays.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\obj\Debug\netcoreapp3.1\QuizArrays.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\obj\Debug\netcoreapp3.1\QuizArrays.dll
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\obj\Debug\netcoreapp3.1\QuizArrays.pdb
+C:\Users\prune\VisualStudioMSSA\QuizArrays\QuizArrays\obj\Debug\netcoreapp3.1\QuizArrays.genruntimeconfig.cache
